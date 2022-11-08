@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/68ija74w8425wqlf?svg=true)](https://ci.appveyor.com/project/Sofia/cont-develop)
+[![Build status](https://ci.appveyor.com/api/projects/status/98wfy0pwaianr3g1?svg=true)](https://ci.appveyor.com/project/Sofia/cont-develop)
